@@ -1,5 +1,5 @@
 name: 'Allure Report with history'
-description: 'Generate Allure Report with history'
+description: 'Generate Allure Report single file'
 author: 'simple-elf'
 branding:
   icon: 'layout'
